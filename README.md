@@ -31,13 +31,8 @@ The project uses Python libraries such as **Pandas, NumPy, Matplotlib, and Seabo
 ## 📷 Dashboard & Analysis Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="700" alt="EDA Dashboard" />
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop" width="350" />
-  <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1200&auto=format&fit=crop" width="350" />
-</p>
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b8338d9-6b37-4fc7-b58f-182cacdfe0b4" />
+ </p>
 
 ---
 
