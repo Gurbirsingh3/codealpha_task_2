@@ -112,15 +112,13 @@ The project uses Python libraries such as **Pandas, NumPy, Matplotlib, and Seabo
 # 📸 Sample Visualizations
 
 ## 📈 Sales Analysis
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1200&auto=format&fit=crop" width="700" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b8338d9-6b37-4fc7-b58f-182cacdfe0b4" />
 </p>
 
 ## 🔥 Correlation Heatmap
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="700" />
+<img width="924" height="614" alt="image" src="https://github.com/user-attachments/assets/256fefba-f729-4373-86d0-2ea74216b68b" />
 </p>
 
 ---
