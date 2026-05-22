@@ -191,9 +191,9 @@ print(Data.head())
 
 ## 🚀 GURBIR SINGH
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
-💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📧 Email: [gurbirsingh3@gmail.com.com](mailto:your-email@example.com)
+🔗 GitHub: [https://github.com/Gurbirsingh3](https://github.com/Gurbirsingh3)
+💼 LinkedIn: [https://www.linkedin.com/in/gurbir-singh-8b5020389/](https://linkedin.com/in/your-profile)
 
 ---
 
