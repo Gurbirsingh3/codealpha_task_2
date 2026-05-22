@@ -145,7 +145,7 @@ The project uses Python libraries such as **Pandas, NumPy, Matplotlib, and Seabo
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha-EDA-Project.git
+git clone https://github.com/Gurbirsingh3/codealpha_task_2
 ```
 
 ## 2️⃣ Install Required Libraries
